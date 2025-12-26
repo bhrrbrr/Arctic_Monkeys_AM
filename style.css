@@ -460,6 +460,21 @@ footer {
 }
 
 
+.table-container {
+  width: 100%;
+  height: 100%;
+  overflow-x: auto; /* Позволяет прокручивать таблицу, если она слишком широка */
+  
+}
+
+iframe {
+            width: 100%;
+            height: 600px; /* Вы можете настроить высоту */
+            border: none; /* Убирает рамку вокруг iframe */
+        }
+
+
+
 
 
 
